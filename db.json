@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "New Bakery",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_06-600x600.png",
+      "price": 20.99,
+      "description": "Bakery"
+    },
+    {
+      "id": 2,
+      "name": "Poppy Strudel",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_08-600x600.png",
+      "price": 19.6,
+      "description": "Bakery"
+    },
+    {
+      "id": 3,
+      "name": "Sprouted Grain",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_09-600x600.png",
+      "price": 12,
+      "description": "Bakery"
+    },
+    {
+      "id": 4,
+      "name": "Saika with Jam",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_03-600x600.png",
+      "price": 25,
+      "description": "Bakery"
+    },
+    {
+      "id": 5,
+      "name": "Pumpernickel",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_04-600x600.png",
+      "price": 13.4,
+      "description": "Bakery"
+    },
+    {
+      "id": 6,
+      "name": "New Bakery",
+      "img": "http://crems.like-themes.com/wp-content/uploads/2019/06/item_02-600x600.png",
+      "price": 20.99,
+      "description": "Bakery"
+    },
+    {
+      "img": "",
+      "name": "",
+      "price": "",
+      "description": "",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

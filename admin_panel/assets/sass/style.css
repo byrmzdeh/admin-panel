@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+* .umumi {
+  width: 100%;
+  height: auto;
+  background: rgb(30, 28, 57);
+  background-image: url("https://img.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg");
+  background-size: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+}
+* .umumi h1 {
+  color: rgb(91, 39, 39);
+  font-family: "Courier New", Courier, monospace;
+  font-size: 55px;
+  font-weight: 400;
+}
+* .umumi button {
+  position: absolute;
+  top: 40px;
+  right: 160px;
+  width: 100px;
+  height: 40px;
+  background-color: rgb(92, 48, 48);
+  border-radius: 16px;
+  border: none;
+  text-align: center;
+}
+* .umumi button a {
+  color: white;
+  text-decoration: none;
+}
+* .newuser {
+  background-color: rgb(203, 203, 203);
+}
+* .newuser form {
+  margin: 150px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 700px;
+  height: 400px;
+  background-color: rgb(187, 181, 181);
+}
+* .newuser input {
+  width: 590px;
+  height: 50px;
+}
+* .newuser button {
+  width: 130px;
+  height: 50px;
+  margin-top: 10px;
+  color: white;
+  cursor: pointer;
+  border: none;
+  background-color: rgb(106, 52, 52);
+  border-radius: 12px;
+}
+* .admin {
+  background-color: rgb(223, 221, 221);
+}
+* .admin button {
+  width: 130px;
+  height: 40px;
+  background-color: rgb(97, 59, 59);
+  border: none;
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+* .admin a {
+  color: white;
+  text-decoration: none;
+}
+* .admin table {
+  width: 70%;
+}
+* .detail {
+  background-image: url("https://img.freepik.com/free-photo/gray-wall-textures-background_74190-4389.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}/*# sourceMappingURL=style.css.map */
